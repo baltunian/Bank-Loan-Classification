@@ -4,4 +4,5 @@ Scikit-Learn's Gaussian Naïve Bayes Classification implementation to determine 
 You will need the Pandas library, the NumPy library, and the Scikit-Learn library with its respective implementations.
 You will also need the read in the dataset with the necessary information for creating the model, which will be provided.
 For best results, it is recommended to using a random_state seed of 42 when preprocessing the data.
-Jupyter Notebook will be required to open this file, however the code can be typed out into a .py file and run that way.
+Jupyter Notebook will be required to run this file locally, however the code can be typed out into a .py file and run that way.
+Otherwise, complete results can be viewed here.
